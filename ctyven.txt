@@ -8,7 +8,7 @@ http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="CYPRUS" tvg-id="riksat"  tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIKS.png" ,RIK SAT (OPTION 2)
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-sat/|webdeskdig
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - RIK SAT 
-http://cybc.com.cy/schedule/|webview zoom=100 scroll=0,6200
+http://cybc.com.cy/schedule/|webview zoom=100 scroll=0,6100
  
 #EXTINF:-1 group-title="CYPRUS" tvg-id="rik1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" ,RIK1 (OPTION 1)[ONLY FOR CYPRUS]
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|webdelaydeskdig$$delay=1
