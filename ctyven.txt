@@ -3,7 +3,6 @@
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-7JUwN0afLAI/WLsjPYSr6-I/AAAAAAAAAK4/rpoB9AuvPT4lb-Yn4_KV_ASHHSgjhTmhQCLcB/s1600/cyprus.png" ,===Cyprus TV===
 https://4.bp.blogspot.com/-7JUwN0afLAI/WLsjPYSr6-I/AAAAAAAAAK4/rpoB9AuvPT4lb-Yn4_KV_ASHHSgjhTmhQCLcB/s1600/cyprus.png|webview zoom=100 scroll=0,0
  
- 
 #EXTINF:-1 group-title="CYPRUS" tvg-id="riksat"  tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIKS.png" ,RIK SAT (OPTION 1)
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="CYPRUS" tvg-id="riksat"  tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIKS.png" ,RIK SAT (OPTION 2)
