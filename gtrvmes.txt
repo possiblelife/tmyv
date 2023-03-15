@@ -1,0 +1,3 @@
+<msg_id>-1</msg_id>
+<logo>https://panathinaikoskosmos.files.wordpress.com/2011/09/greek-flag-in-tv.jpg?w=288&h=242</logo>
+<message>New version</message>
