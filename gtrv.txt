@@ -223,7 +223,7 @@ https://video.streams.ovh:1936/pellatv/pellatv/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="PLP" tvg-logo="https://i.ibb.co/yNtDdjP/plp-tv.png" ,PLP
 https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="TV RODOPI" tvg-logo="http://www.tvrodopi.gr/images/logo.png" ,TV ΡΟΔΟΠΗ ΑΜΘ (ΑΝ. ΜΑΚΕΔΟΝΙΑΣ ΚΑΙ ΘΡΑΚΗΣ)
-https://stream.castr.com/5ee9fe7c32483d2b26fa2c75/live_8e981e4052a811ec84c93746b0fa0734/index.m3u8|Referer=https://player.castr.com/
+https://stream.castr.com/5ee9fe7c32483d2b26fa2c75/live_8e981e4052a811ec84c93746b0fa0734/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36&Referer=https://player.castr.com/
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="SAMIAKI TV" tvg-logo="https://i.ibb.co/B3n8hcv/sat-tv.jpg" ,ΣΑΤ (Samiaki TV) (ΔΩΔΕΚΑΝΗΣΟΥ ΚΑΙ ΣΑΜΟΥ)
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="STAR B. ELLADOS" tvg-logo="http://www.anacon.org/app/img/starbe.jpg" ,Star B. ΕΛΛΑΔΟΣ (ΑΝ. ΜΑΚΕΔΟΝΙΑΣ ΚΑΙ ΘΡΑΚΗΣ)
@@ -352,8 +352,7 @@ https://s1.cystream.net/live/tinos/playlist.m3u8
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://yt3.ggpht.com/a/AATXAJxPN14nkBPdNoQAb5MQ_JJryWUhsyIXLJEOqg=s48-c-k-c0xffffffff-no-rj-mo" ,ecclesiaTV.gr (YOUTUBE)
 https://www.youtube.com/embed/TVYsFy9_XjE
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://marontv.gr/wp-content/uploads/2019/12/marontv.png" ,Marontv
-https://stream.castr.com/5ee9fe7c32483d2b26fa2c75/live_5b6100f052a811ecb9de459a5b31f37c/index.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://marontv.gr/wp-content/uploads/2019/12/maron|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36&Referer=https://player.castr.com/
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://www.nstv.gr/site/assets/files/2626/nstvlive.100x0.jpg" ,NStv.gr
 http://176.9.123.140:1935/nstv1/stream/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://static.wixstatic.com/media/1af93f_c70d65efa2864a78b5ecee452437971f~mv2.png/v1/fill/w_265,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/xplore-vector_its-all-here-tagline-01_ed.png" ,XPLORE
