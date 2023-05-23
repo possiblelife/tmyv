@@ -8,7 +8,7 @@ http://.....
 
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-logo="https://i.ibb.co/dB5y7f9/flixert.png",ERTFLIX LIVE
 https://www.ertflix.gr/epg/now-on-tv|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="https://i.ibb.co/Y71vkKs/ERT1.jpg" ,ΕΡΤ1 WebTV (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="https://i.ibb.co/Y71vkKs/ERT1.jpg" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1 WebTV (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="https://i.ibb.co/Y71vkKs/ERT1.jpg" ,ΕΡΤ1 WebTV-2 (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ert1/ert_ev1_main/mainabr/playlist.m3u8
