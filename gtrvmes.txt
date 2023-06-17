@@ -1,4 +1,4 @@
-<msg_id>2</msg_id>
+<msg_id>-1</msg_id>
 <logo>https://i.ibb.co/vxkZTPN/ic-launcher-round.png</logo>
 <message> ΑΓΑΠΗΤΕ ΧΡΗΣΤΗ ΤΟΥ Greece TV&Radio.
  ΛΟΓΟ ΤΕΧΝΙΚΟΥ ΠΡΟΒΛΗΜΑΤΟΣ ΤΑ ΚΑΝΑΛΙΑ ΜΕ ΤΗΝ ΕΝΔΕΙΞΗ "ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ PLAY VIDEO ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ" ΕΙΝΑΙ ΕΚΤΟΣ ΛΕΙΤΟΥΡΓΙΑΣ. ΘΑ ΕΙΝΑΙ ΚΟΝΤΑ ΣΑΣ ΤΟ ΣΥΝΤΟΜΟΤΕΡΟ ΔΥΝΑΤΟ.
