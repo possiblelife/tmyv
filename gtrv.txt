@@ -383,7 +383,8 @@ https://tv.mediacp.eu:8081/10channel/index.m3u8
 https://rtmp.streams.ovh:1936/ydra/ydra/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="http://tv.ime.gr//images/logo.png" tvg-website="http://tv.ime.gr/" ,IME Web TV
 http://theagenis.fhw.gr:8080/hls/maintv/index.m3u8
-
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://primenews.press/wp-content/uploads/tvlogo-mauro-768x205.png" tvg-website="https://primenews.press/web-tv" ,Prime News TV
+https://vdo.alphaserver.gr:3411/multi_web/play.m3u8
 
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,===== ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ ====
@@ -606,5 +607,3 @@ https://www.gazzetta.gr/tv-program|webepg zoom=100 scroll=0,0
 https://www.athinorama.gr/tv/programma/athlitikesmetadoseis/|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΤΗΛΕΟΠΤΙΚΑ ΠΡΟΓΡΑΜΜΑΤΑ"  tvg-logo="https://i.ibb.co/xjGxRyp/sports-schedule.jpg" ,Αθλητικές Μεταδόσεις (ERT)
 https://program.ert.gr/tvsports.asp|webepg zoom=100 scroll=0,0
-
-
