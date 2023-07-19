@@ -67,13 +67,13 @@ https://streamer-cache.grnet.gr/parliament/hls/webtv3.m3u8
 http://.....
 
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://i.ibb.co/xjGxRyp/sports-schedule.jpg" ,Αθλητικές Μεταδόσεις (gazzetta)
-https://www.gazzetta.gr/tv-program|webepg zoom=100 scroll=0,0
+https://www.gazzetta.gr/tv-program|webview zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://i.ibb.co/xjGxRyp/sports-schedule.jpg" ,Αθλητικές Μεταδόσεις (athinorama)
-https://www.athinorama.gr/tv/programma/athlitikesmetadoseis/|webepg zoom=100 scroll=0,0
+https://www.athinorama.gr/tv/programma/athlitikesmetadoseis/|webview zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://i.ibb.co/xjGxRyp/sports-schedule.jpg" ,Αθλητικές Μεταδόσεις (ERT)
-https://program.ert.gr/tvsports.asp|webepg zoom=100 scroll=0,0
+https://program.ert.gr/tvsports.asp|webview zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ"  tvg-logo="https://img.onesignal.com/t/aa4f01d5-1349-424d-9c50-6ccfcf20dd0d.png" tvg-website="https://www.tvopen.gr/livegames#" ,OPEN All Live Games
-https://www.tvopen.gr/livegames#|webepg zoom=100 scroll=0,100
+https://www.tvopen.gr/livegames#|webview zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://img.onesignal.com/t/aa4f01d5-1349-424d-9c50-6ccfcf20dd0d.png" tvg-website="https://www.tvopen.gr/livegames#" ,OPEN Live Game Argentina(HBBTV) 
 https://opentvlive1.siliconweb.com/opentvliveabr/openlatin/playlist.m3u8
 #EXTINF:-1 group-title="ΑΘΛΗΤΙΚΑ" tvg-logo="https://img.onesignal.com/t/aa4f01d5-1349-424d-9c50-6ccfcf20dd0d.png" tvg-website="https://www.tvopen.gr/livegames#" ,OPEN Live Game Brazil(HBBTV) 
@@ -312,9 +312,9 @@ http://www.anacon.org/app/chans/cy/pluscyimage.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="smile" tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" tvg-website="https://www.smiletvcyprus.com/" ,ΣΜΑΙΛ
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Berginacy" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fa28f343-2082-41e1-aa2d-2d7fbe1c7552-profile_image-300x300.png" tvg-website="https://verginatv.cy/" ,ΒΕΡΓΙΝΑ ΤV
-http://www.anacon.org/app/chans/cy/verginacyimage.php|webview zoom=100 scroll=0,300
+http://www.anacon.org/app/chans/cy/verginacyimage.php|webepg zoom=100 scroll=0,300
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ"  tvg-logo="https://i.ibb.co/6YDnHwS/bluesky.jpg" ,Bluesky Cyprus
-http://www.anacon.org/app/chans/cy/blueskycyprus.php|webview zoom=100 scroll=0,300
+http://www.anacon.org/app/chans/cy/blueskycyprus.php|webepg zoom=100 scroll=0,300
 
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,===== ΔΙΑΔΙΚΤΥΑΚΑ ====
