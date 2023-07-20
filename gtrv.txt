@@ -441,12 +441,12 @@ https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΜΟΥΣΙΚΗ   ====
 http://.....
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-id="Mad TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS6cOwr3F29JR4o7Wgg_Aj6pyYt2b6rl4LhsdvXRg=s48-c-k-c0x00ffffff-no-rj" tvg-website="https://mad.tv/" ,MAD TV (Youtube)
-https://www.youtube.com/embed/sDYSnu0R-i4
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-id="Mad TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS6cOwr3F29JR4o7Wgg_Aj6pyYt2b6rl4LhsdvXRg=s48-c-k-c0x00ffffff-no-rj" tvg-website="https://mad.tv/" ,MAD TV
+http://ythls.onrender.com/channel/UCs3cho4vcDuCze0tk3W9iVQ.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ" tvg-id="Mad TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS6cOwr3F29JR4o7Wgg_Aj6pyYt2b6rl4LhsdvXRg=s48-c-k-c0x00ffffff-no-rj" tvg-website="https://mad.tv/" ,MAD TV (backup) (Youtube)
 https://www.youtube.com/c/madtvgreece/live
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniRWeQydH4pamOZcqfgB94e7Zm_IMDxKOssr_oNBw=s48-c-k-c0x00ffffff-no-rj" tvg-website="https://mad.tv/mad-radio/live-streaming/" ,Mad Radio 106.2 (Youtube)
-https://www.youtube.com/embed/PKG0PFBQl2Y
+https://mad.tv/mad-radio/live-streaming/|youtubedig
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="https://i.ibb.co/k9dGbcN/baraza.jpg" tvg-website="https://app.barazaradio.com/" ,Baraza Greek Hits
 https://eco.streams.ovh/BarazaTV/BarazaTV/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="https://i.ibb.co/k9dGbcN/baraza.jpg" tvg-website="https://app.barazaradio.com/" ,Baraza Greek Music TV 
@@ -513,8 +513,12 @@ http://65.108.62.57:8080/live/kidshd.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-id="smile"  tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" tvg-website="https://www.smiletvcyprus.com/" ,Smile
 https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="http://tv.10dailythings.com/images/channels/GR/wb-kids/normal.png" ,WB KIDS
-https://d807d636299c41678ab04e3ae475f818.mediatailor.us-east-1.amazonaws.com/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-Digitaltree/0dac99ff-0171-4204-809c-c5f65a660e05/0.m3u8
-#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://yt3.ggpht.com/hVpFyMI1aY-zEylSJo6WPD8-HoJfQZp14ZYp_HWNmG1azEakU5B1Qpsrh1OSXq5bYLKMJ_Jl=s48-c-k-c0x00ffffff-no-rj" tvg-website="https://www.zouzounia.tv/" ,ΑΓΑΠΗΜΕΝΑ ΠΑΙΔΙΚΑ ΤΡΑΓΟΥΔΙΑ με τα Ζουζούνια
+http://ythls.onrender.com/channel/UCniI-BQk7qAtXNmmz40LSdg.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="http://tv.10dailythings.com/images/channels/GR/wb-kids/normal.png" ,WB KIDS (Youtube)
+https://www.youtube.com/@WBKidsInternational/videos|webepg zoom=100 scroll=0,0
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://yt3.ggpht.com/hVpFyMI1aY-zEylSJo6WPD8-HoJfQZp14ZYp_HWNmG1azEakU5B1Qpsrh1OSXq5bYLKMJ_Jl=s48-c-k-c0x00ffffff-no-rj" tvg-website="https://www.zouzounia.tv/" ,Ζουζούνια live
+http://ythls.onrender.com/channel/UC9QSJuIBLUT2GbjgKymkTaQ.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://yt3.ggpht.com/hVpFyMI1aY-zEylSJo6WPD8-HoJfQZp14ZYp_HWNmG1azEakU5B1Qpsrh1OSXq5bYLKMJ_Jl=s48-c-k-c0x00ffffff-no-rj" tvg-website="https://www.zouzounia.tv/" ,ΑΓΑΠΗΜΕΝΑ ΠΑΙΔΙΚΑ ΤΡΑΓΟΥΔΙΑ με τα Ζουζούνια (Youtube)
 https://www.youtube.com/@zouzounia_tv/videos|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://static.wixstatic.com/media/ed2185_f37f51a228e645c4aa427a3dfa6e62bc~mv2.png/v1/fill/w_108,h_23,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/BCIKIDS%20(2).png" tvg-website="https://www.bcimediainc.com/" ,BCI KIDS
 https://eu1.vectromdigital.com:1936/bcikids/bcikids/playlist.m3u8
@@ -550,10 +554,8 @@ http://.....
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="ertworld" tvg-logo="https://i.ibb.co/2Z6rFsL/ERT-WORLD.jpg" tvg-website="https://www.ertflix.gr" ,ΕΡΤ WORLD WebTV-2
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist.m3u8
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Euronews" tvg-logo="https://goo.gl/QMXKek" tvg-website="https://gr.euronews.com/" ,EURONEWS (Youtube)-1
-https://www.youtube-nocookie.com/embed/live_stream?channel=UC8HJZNfDPoySgW9DN3YGNaA&modestbranding=1|agentnodown$$start=https://www.youtube.com$$end="$$replace=$$replacewith=$$add=
-#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Euronews" tvg-logo="https://goo.gl/QMXKek" tvg-website="https://gr.euronews.com/" ,EURONEWS (Youtube)-2
-https://www.youtube-nocookie.com/embed/live_stream?channel=UC8HJZNfDPoySgW9DN3YGNaA&modestbranding=1
+#EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Euronews" tvg-logo="https://goo.gl/QMXKek" tvg-website="https://gr.euronews.com/" ,EURONEWS
+https://euronews-el-p28-cdn.hexaglobe.net/7e61e4236ce610c856f8e101dcbb2332/64b8ee83/euronews/euronews-euronews-website-web-responsive-2/ewnsabrel_gre.smil/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Al Jazeera English" tvg-logo="https://i.pinimg.com/originals/64/cd/32/64cd32bd821a9b3b020260b27f9b5cb4.png" tvg-website="https://www.aljazeera.com/" ,Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="RT" tvg-logo="https://yt3.ggpht.com/-rYFeIFqsCxg/AAAAAAAAAAI/AAAAAAAAAAA/lSsBZ4jxgsg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"  tvg-website="https://www.rt.com/" ,Russia Today
