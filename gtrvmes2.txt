@@ -1,4 +1,4 @@
-<msg_id>-1</msg_id>
+<msg_id>2</msg_id>
 <logo>https://i.ibb.co/6PvbdP5/ic-launcher.png</logo>
 <message>Καλώς ορίσατε στην νέα έκδοση v3 του Greece TV&Radio.
 
