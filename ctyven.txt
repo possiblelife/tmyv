@@ -50,9 +50,8 @@ http://www.anacon.org/app/chans/cy/sigma.php|webview zoom=100 scroll=0,300
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - Sigma
 http://www.sigmatv.com/schedule|webview zoom=100 scroll=0,300
  
+
 #EXTINF:-1 group-title="CYPRUS"  tvg-id="Alpha Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" tvg-website="https://www.alphacyprus.com.cy/",Alpha (OPTION 1)
-http://l4.cloudskep.com/alphacyp/acy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDIzIDg6MzU6NTIgQU0maGFzaF92YWx1ZT1zMFB1ZVhZOGlSdU03YzRHOS9FVmN3PT0mdmFsaWRtaW51dGVzPTM2MA==
-#EXTINF:-1 group-title="CYPRUS"  tvg-id="Alpha Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" tvg-website="https://www.alphacyprus.com.cy/",Alpha (OPTION 1) -ALTERNATE
 https://www.alphacyprus.com.cy/live|weballdig
 #EXTINF:-1 group-title="CYPRUS"  tvg-id="Alpha Cyprus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Alpha_Cyprus_Logo.jpg" tvg-website="https://www.alphacyprus.com.cy/",Alpha (OPTION 2) (Click "PLAY VIDEO" between ads)
 http://www.anacon.org/app/chans/cy/alphacyprus.php|webview zoom=100 scroll=0,300
@@ -97,7 +96,7 @@ http://www.anacon.org/app/chans/cy/smilecy.html|weballdig
 http://www.smiletvcyprus.com/gr/index.php/program/monday|webview zoom=100 scroll=0,100
  
 #EXTINF:-1 group-title="CYPRUS" tvg-id="ert" tvg-logo="https://goo.gl/DLhMC3" tvg-website="https://www.ertflix.gr" ,ERT WORLD
-https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist.m3u8
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/cyprus/ert_cyprus_main/mainabr/playlist.m3u8
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG -  ERT WORLD
 https://www.ertflix.gr/epg/channel/ept-world-live|webview zoom=0 scroll=0,300
  
