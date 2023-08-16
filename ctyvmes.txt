@@ -1,6 +1,6 @@
-<msg_id>-1</msg_id>
+<msg_id>2</msg_id>
 <logo>https://i.ibb.co/Qp6Rpqc/ic-launcher.png</logo>
-<message>Καλώς ορίσατε στην νέα έκδοση v4 του Gyprus TV&Radio.
+<message>Καλώς ορίσατε στην νέα έκδοση v4 του Cyprus TV&Radio.
 
 Για κάτοχους Android TV ή TV Box που δεν βρίσκουν την εφαρμογή στο playstore τους μπορούν να εγκαταστήσουν την εφαρμογή μέσω Downloader ή με οπουδήποτε άλλο τρόπο από το πιο κάτω λινκ (κάθε φορά που θα υπάρχει αναβάθμιση θα την κάνετε με το ίδιο λινκ)
 https://bit.ly/cytvradio
