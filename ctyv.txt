@@ -100,8 +100,6 @@ https://www.ertflix.gr/epg/channel/ept-world-live|webview zoom=0 scroll=0,300
 
 #EXTINF:-1 group-title="ΔΙΕΘΝΗ ΔΙΚΤΥΑ"  tvg-id="Euronews" tvg-logo="https://goo.gl/QMXKek" tvg-website="https://gr.euronews.com/" ,EURONEWS (Youtube)
 https://gr.euronews.com/live|youtubedig
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://i.imgur.com/w9Je47D.png" tvg-website="https://cysports.tv/" ,CYSPORTS
-https://cysports.tv/Live-CySports|webview zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://www.anacon.org/app/img/faroscy.jpg" tvg-website="https://www.farosonair.com/" ,ΦΑΡΟΣ on Air
 https://s1.cystream.net/live/faros1/chunks.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="http://www.anacon.org/app/img/faroscy.jpg" tvg-website="https://www.farosonair.com/" ,ΦΑΡΟΣ on Air2

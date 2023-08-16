@@ -102,12 +102,8 @@ https://www.ertflix.gr/epg/channel/ept-world-live|webview zoom=0 scroll=0,300
  
 
 
-#EXTINF:-1 group-title="WORLDWIDE"  tvg-id="Euronews" tvg-logo="https://goo.gl/QMXKek" tvg-website="https://gr.euronews.com/" ,EURONEWS (Youtube)-1
-https://www.youtube-nocookie.com/embed/live_stream?channel=UC8HJZNfDPoySgW9DN3YGNaA&modestbranding=1|agentnodown$$start=https://www.youtube.com$$end="$$replace=$$replacewith=$$add=
-#EXTINF:-1 group-title="WORLDWIDE"  tvg-id="Euronews" tvg-logo="https://goo.gl/QMXKek" tvg-website="https://gr.euronews.com/" ,EURONEWS (Youtube)-2
-https://www.youtube-nocookie.com/embed/live_stream?channel=UC8HJZNfDPoySgW9DN3YGNaA&modestbranding=1
-#EXTINF:-1 group-title="WEBTV"  tvg-logo="https://i.imgur.com/w9Je47D.png" tvg-website="https://cysports.tv/" ,CYSPORTS
-https://cysports.tv/Live-CySports|webview zoom=100 scroll=0,0
+#EXTINF:-1 group-title="WORLDWIDE"  tvg-id="Euronews" tvg-logo="https://goo.gl/QMXKek" tvg-website="https://gr.euronews.com/" ,EURONEWS (Youtube)
+https://gr.euronews.com/live|youtubedig
 #EXTINF:-1 group-title="WEBTV"  tvg-logo="http://www.anacon.org/app/img/faroscy.jpg" tvg-website="https://www.farosonair.com/" ,FAROS on Air
 https://s1.cystream.net/live/faros1/chunks.m3u8
 #EXTINF:-1 group-title="WEBTV"  tvg-logo="http://www.anacon.org/app/img/faroscy.jpg" tvg-website="https://www.farosonair.com/" ,FAROS on Air 2
