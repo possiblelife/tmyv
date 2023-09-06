@@ -10,27 +10,27 @@ http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-sat/|webdelaydeskdig$$delay=1
 http://cybc.com.cy/schedule/|webepg zoom=100 scroll=0,6200
  
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ1 (ΕΠΙΛΟΓΗ 1)[ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|webdelaydeskdig$$delay=1
+http://l6.cloudskep.com/tvb6/rik1-1/mpeg.2ts
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ1 (ΕΠΙΛΟΓΗ 1)-ΕΝΑΛΛΑΚΤΙΚΟ[ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|webepg zoom=100 scroll=0,100
+http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|webdelaydeskdig$$delay=1
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik1"  tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ1 (ΕΠΙΛΟΓΗ 2) (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/cy/rik1cyprus.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Τηλεοπτικό Πρόγραμμα ΡΙΚ1 
 http://cybc.com.cy/schedule/|webepg zoom=100 scroll=0,1900
  
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik2" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/RIK2.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ2 (ΕΠΙΛΟΓΗ 1)[ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|webdelaydeskdig$$delay=1
+http://l6.cloudskep.com/tvb6/rik2-1/mpeg.2ts
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik2" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/RIK2.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ2 (ΕΠΙΛΟΓΗ 1)-ΕΝΑΛΛΑΚΤΙΚΟ[ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|webepg zoom=100 scroll=0,100
+http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|webdelaydeskdig$$delay=1
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="rik2"  tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/RIK2.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚ2 (ΕΠΙΛΟΓΗ 2) (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/cy/rik2.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,Τηλεοπτικό Πρόγραμμα ΡΙΚ2
 http://cybc.com.cy/schedule/|webepg zoom=100 scroll=0,1000
  
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="RIK HD" tvg-logo="http://cybc.com.cy/wp-content/uploads/admin/2018/10/rik-hd-bubble-border.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚHD [ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-hd/|webdelaydeskdig$$delay=1
+http://l6.cloudskep.com/tvb6/rikhd1/mpeg.2ts
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="RIK HD" tvg-logo="http://cybc.com.cy/wp-content/uploads/admin/2018/10/rik-hd-bubble-border.png" tvg-website="http://cybc.com.cy/" ,ΡΙΚHD -ΕΝΑΛΛΑΚΤΙΚΟ[ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-hd/|webepg zoom=100 scroll=0,100
+http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-hd/|webdelaydeskdig$$delay=1
  
 #EXTINF:-1 group-title="ΠΑΓΚΥΠΡΙΑ" tvg-id="Mega" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" tvg-website="http://www.omegatv.com.cy/" ,OMEGA (ΕΠΙΛΟΓΗ 1)
 https://www.omegatv.com.cy/live/|weballdig

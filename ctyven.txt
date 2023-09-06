@@ -10,27 +10,27 @@ http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-sat/|webdelaydeskdig$$delay=1
 http://cybc.com.cy/schedule/|webepg zoom=100 scroll=0,6200
  
 #EXTINF:-1 group-title="CYPRUS" tvg-id="rik1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" tvg-website="http://cybc.com.cy/" ,RIK1 (OPTION 1)[ONLY FOR CYPRUS]
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|webdelaydeskdig$$delay=1
+http://l6.cloudskep.com/tvb6/rik1-1/mpeg.2ts
 #EXTINF:-1 group-title="CYPRUS" tvg-id="rik1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" tvg-website="http://cybc.com.cy/" ,RIK1 (OPTION 1) -ALTERNATE[ONLY FOR CYPRUS]
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|webepg zoom=100 scroll=0,100
+http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|webdelaydeskdig$$delay=1
 #EXTINF:-1 group-title="CYPRUS" tvg-id="rik1" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" tvg-website="http://cybc.com.cy/" ,RIK1 (OPTION 2) (Click "PLAY VIDEO" between ads)
 http://www.anacon.org/app/chans/cy/rik1cyprus.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - RIK1 
 http://cybc.com.cy/schedule/|webepg zoom=100 scroll=0,1900
  
 #EXTINF:-1 group-title="CYPRUS" tvg-id="rik2"  tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/RIK2.png" tvg-website="http://cybc.com.cy/" ,RIK2 (OPTION 1)[ONLY FOR CYPRUS]
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|webdelaydeskdig$$delay=1
+http://l6.cloudskep.com/tvb6/rik2-1/mpeg.2ts
 #EXTINF:-1 group-title="CYPRUS" tvg-id="rik2"  tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/RIK2.png" tvg-website="http://cybc.com.cy/" ,RIK2 (OPTION 1) -ALTERNATE[ONLY FOR CYPRUS]
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|webepg zoom=100 scroll=0,100
+http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|webdelaydeskdig$$delay=1
 #EXTINF:-1 group-title="CYPRUS" tvg-id="rik2"  tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/RIK2.png" tvg-website="http://cybc.com.cy/" ,RIK2 (OPTION 2) (Click "PLAY VIDEO" between ads)
 http://www.anacon.org/app/chans/cy/rik2.php|webepg zoom=100 scroll=0,100
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - RIK2
 http://cybc.com.cy/schedule/|webepg zoom=100 scroll=0,1000
  
 #EXTINF:-1 group-title="CYPRUS" tvg-id="RIK HD" tvg-logo="http://cybc.com.cy/wp-content/uploads/admin/2018/10/rik-hd-bubble-border.png" tvg-website="http://cybc.com.cy/" ,RIK HD [ONLY FOR CYPRUS]
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-hd/|webdelaydeskdig$$delay=1
+http://l6.cloudskep.com/tvb6/rikhd1/mpeg.2ts
 #EXTINF:-1 group-title="CYPRUS" tvg-id="RIK HD" tvg-logo="http://cybc.com.cy/wp-content/uploads/admin/2018/10/rik-hd-bubble-border.png" tvg-website="http://cybc.com.cy/" ,RIK HD -ALTERNATE[ONLY FOR CYPRUS]
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-hd/|webepg zoom=100 scroll=0,100
+http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-hd/|webdelaydeskdig$$delay=1
  
 #EXTINF:-1 group-title="CYPRUS" tvg-id="Mega" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" tvg-website="http://www.omegatv.com.cy/" ,OMEGA (OPTION 1)
 https://www.omegatv.com.cy/live/|weballdig
