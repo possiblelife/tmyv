@@ -615,7 +615,6 @@ http://.....
 
 #EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.sigmatv.com/shows/category/8|webvod zoom=100 scroll=0,0
-
 #EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Άλλα λόγια θκειε παπά (2019)
 https://www.sigmatv.com/shows/alla-logia-thkie-papa/episodes/season/166|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="SIGMA  ΚΥΠΡΟΣ" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,Αλλού ξημερωμένοι (2010-11)
@@ -687,10 +686,8 @@ http://.....
 
 #EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΟΛΕΣ ΟΙ ΣΕΙΡΕΣ
 https://www.omegatv.com.cy/cgibin/hweb?-V=tvshows&_FCATEGORY%3E=110001&_FCATEGORY%3C=110004&-Sr&-dtvshows.html&_VSECTION=7010|webvod zoom=100 scroll=0,0
-
 #EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΕΡΩΤΑΣ ΦΥΓΑΣ
 https://www.omegatv.com.cy/cgibin/hweb?-A=183392&-V=tvshows|webvod zoom=100 scroll=0,0
-
 #EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,ΣΗΜΕΙΑ ΚΑΙ ΤΕΡΑΤΑ
 https://www.omegatv.com.cy/cgibin/hweb?-A=97692&-V=tvshows|webvod zoom=100 scroll=0,0
 #EXTINF:-1 group-title="OMEGA  ΚΥΠΡΟΣ" tvg-logo="https://raw.githubusercontent.com/hadjistyllis/logo/master/omega.png" ,Η ΔΙΚΗ ΜΑΣ ΟΙΚΟΓΕΝΕΙΑ
