@@ -1,6 +1,8 @@
-<msg_id>1</msg_id>
+<msg_id>4</msg_id>
 <logo>https://i.ibb.co/6PvbdP5/ic-launcher.png</logo>
-<message>Καλώς ορίσατε στην νέα έκδοση v3 του Greece TV&Radio.
+<message>Nέα έκδοση v3.04 του Greece TV&Radio.
+Βασικές αλλαγές:
+-Διάφορες διορθώσεις στο tvstyle.
 
 Για κάτοχους Android TV ή TV Box που δεν βρίσκουν την εφαρμογή στο playstore τους μπορούν να εγκαταστήσουν την εφαρμογή μέσω Downloader ή με οπουδήποτε άλλο τρόπο από το πιο κάτω λινκ (κάθε φορά που θα υπάρχει αναβάθμιση θα την κάνετε με το ίδιο λινκ)
 https://bit.ly/grtvradio
