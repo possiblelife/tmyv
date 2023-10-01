@@ -430,7 +430,8 @@ https://eu1.vectromdigital.com:1936/bcigreek/bcigreek/playlist.m3u8
 https://eu1.vectromdigital.com:1936/bciclassic/bciclassic/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="https://i.ibb.co/GQw16hx/STyrob9.jpg" ,Cinema Classics
 https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
-
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ" tvg-logo="https://www.cycinema.live/templates/itravel/images/logo.png" ,Κυπριακές Ταινίες
+https://www.cycinema.live/tainies/|webepg zoom=0 scroll=0,100
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΜΟΥΣΙΚΗ   ====
 http://.....
