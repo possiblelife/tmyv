@@ -68,9 +68,9 @@ http://www.anacon.org/app/chans/cy/capitalcyprus.php|webepg zoom=100 scroll=0,10
 #EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - Capital
 https://www.cyta.com.cy/tv-guide/en|webepg zoom=100 scroll=0,100
  
-#EXTINF:-1 group-title="CYPRUS" tvg-id="Extra TV" tvg-logo="http://www.lakatamiatv.xyz/media/images/articles/extracy.jpg" ,Extra (Click "PLAY VIDEO" between ads)
-http://www.anacon.org/app/chans/cy/extracy.php|webepg zoom=100 scroll=0,100
-#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - Extra
+#EXTINF:-1 group-title="CYPRUS" tvg-id="Extra TV" tvg-logo="https://i.ibb.co/K6qFWYF/ONE-CY.png" ,ONE Channel CY (Click "PLAY VIDEO" between ads)
+http://www.anacon.org/app/chans/cy/extracyimage.php|webepg zoom=100 scroll=0,100
+#EXTINF:-1 group-title="CYPRUS" tvg-logo="https://i.ibb.co/6wJ5zVJ/epgsss.png" ,EPG - ONE Channel CY
 https://www.cyta.com.cy/tv-guide/en|webepg zoom=100 scroll=0,100
  
 #EXTINF:-1 group-title="CYPRUS" tvg-id="Plus TV" tvg-logo="http://www.anacon.org/app/img/plus.jpg" ,Plus (Click "PLAY VIDEO" between ads)
