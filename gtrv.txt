@@ -506,6 +506,16 @@ http://ythls.onrender.com/channel/UC9QSJuIBLUT2GbjgKymkTaQ.m3u8
 https://www.youtube.com/@zouzounia_tv/videos|webepg zoom=100 scroll=0,0
 #EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://yt3.ggpht.com/OrMWwr3M7vTvuR3JPCcslKZW7v2C-3IHzlatXzSIi7Vacbc9-MEVT9Mylwzb7MhecAzM9z5Cg6g=s48-c-k-c0x00ffffff-no-rj" ,Κλαψουλίνια (Youtube)
 https://www.youtube.com/embed/76wyKYBnd28
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e5/Oddbods_logo.png" ,Oddbods
+https://ythls.onrender.com/channel/UCtlth0w7_mYqpHPViMhQ99Q.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://static.wikia.nocookie.net/booba/images/0/06/Booba.jpeg/revision/latest/smart/width/250/height/250?cb=20201028192947" ,Booba
+https://ytlive.zazerconer.workers.dev/@Booba_Cartoon.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://i.ytimg.com/vi/rpEKc83HyEI/hqdefault.jpg" ,Lego Toons
+https://ytlive.zazerconer.workers.dev/@legomukbang.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://assets.stickpng.com/images/59d62b903752880e93e16ebd.png" ,Paw Patrol
+https://ytlive.zazerconer.workers.dev/@PAWPatrolOfficial.m3u8
+#EXTINF:-1 group-title="ΠΑΙΔΙΚΑ"  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Talking_Tom_2021.svg/revision/latest/scale-to-width-down/300?cb=20230804030228" ,Talking Tom
+https://ytlive.zazerconer.workers.dev/@TalkingTom.m3u8
 
 #EXTINF:-1 group-title="ΕΚΚΛΗΣΙΑΣΤΙΚΑ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΕΚΚΛΗΣΙΑΣΤΙΚΑ   ====
 http://.....
