@@ -219,7 +219,7 @@ https://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="RISE TV" tvg-logo="https://i.ibb.co/8rXSPBg/image75-118.png" tvg-website="https://www.rise.gr/" ,RISE TV (ΑΤΤΙΚΗΣ)
 http://ovh-edge-h.evrideo.com:8080/23e234f2-aec8-4804-b694-4cdd71d2d48d_MONITORING_HLS/video_240p_WEBRTC_MONITORING.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="TV RODOPI" tvg-logo="http://www.tvrodopi.gr/images/logo.png" tvg-website="https://www.tvrodopi.gr/" ,TV ΡΟΔΟΠΗ ΑΜΘ (ΑΝ. ΜΑΚΕΔΟΝΙΑΣ ΚΑΙ ΘΡΑΚΗΣ)
-https://stream.castr.com/5ee9fe7c32483d2b26fa2c75/live_8e981e4052a811ec84c93746b0fa0734/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36&Referer=https://player.castr.com/
+https://www.tvrodopi.gr/|webdig
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="SAMIAKI TV" tvg-logo="https://i.ibb.co/B3n8hcv/sat-tv.jpg" tvg-website="https://samiaki.tv/" ,ΣΑΤ (Samiaki TV) (ΔΩΔΕΚΑΝΗΣΟΥ ΚΑΙ ΣΑΜΟΥ)
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:-1 group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ"  tvg-id="STAR B. ELLADOS" tvg-logo="http://www.anacon.org/app/img/starbe.jpg" tvg-website="https://www.startvfm.gr/" ,Star B. ΕΛΛΑΔΟΣ (ΑΝ. ΜΑΚΕΔΟΝΙΑΣ ΚΑΙ ΘΡΑΚΗΣ)
@@ -332,8 +332,8 @@ http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://www.notioi.gr/wp-content/uploads/2017/05/400dpiLogoCropped-300x69.png" ,Νότιοι tv
 https://srv.streamserver.gr:3451/stream/play.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://marontv.gr/wp-content/uploads/2021/03/marontv.png tvg-website="https://marontv.gr/" , Maron TV
-https://stream.castr.com/5ee9fe7c32483d2b26fa2c75/live_5b6100f052a811ecb9de459a5b31f37c/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36&Referer=https://player.castr.com/
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://marontv.gr/wp-content/uploads/2021/03/marontv.png" tvg-website="https://marontv.gr/" , Maron TV
+https://marontv.gr/|webdig
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://www.nstv.gr/site/assets/files/2626/nstvlive.100x0.jpg" tvg-website="https://nstv.gr/" ,NStv.gr
 https://til.pp.ua:3262/live/nstv7live.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://static.wixstatic.com/media/1af93f_c70d65efa2864a78b5ecee452437971f~mv2.png/v1/fill/w_265,h_100,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/xplore-vector_its-all-here-tagline-01_ed.png" ,XPLORE
