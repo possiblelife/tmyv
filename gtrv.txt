@@ -326,7 +326,7 @@ https://live.cast-control.eu/organismos/organismos/playlist.m3u8
 http://live.greektv.ca/hls1/greektv.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://ustvstaticcdn1-a.akamaihd.net/i/channel/picture/1/9/8/9/1989576/1989576_greekvoice-logo_1337057406,192x192,r:1.jpg" ,GREEK VOICE 
 http://wpso.com:1936/hls/wzra.m3u8
-#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/6a/a2/78/6aa278d5-187d-6988-fd3d-3d1d2a7cb3f1/source/512x512bb.jpg" ,Ellas TV MAX
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/6a/a2/78/6aa278d5-187d-6988-fd3d-3d1d2a7cb3f1/source/512x512bb.jpg" ,Ellas World
 http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://reloadplay.com/wp-content/uploads/2017/04/Cool-2.png" ,XPLORE Channel
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
@@ -378,6 +378,8 @@ http://theagenis.fhw.gr:8080/hls/maintv/index.m3u8
 https://channel.streams.ovh:1936/ioanninatv/ioanninatv/playlist.m3u8
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://yt3.googleusercontent.com/V1mfR9Buu9AoUlVduOmOUycgLaKzUoW7rzSxEsc2zzyWM-IlL18tcEb81Z3UXyuRN2g3fsPWKw=s176-c-k-c0x00ffffff-no-rj" tvg-website="https://10channel.gr/" ,10 CHANNEL
 https://tv.mediacp.eu:8081/10channel/index.m3u8
+#EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ"  tvg-logo="https://static.wixstatic.com/media/8f8fd9_7a2f1a3788a64b929db6594dcb45eed2~mv2.png/v1/crop/x_72,y_40,w_176,h_72/fill/w_154,h_60,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LOGO%20UP.png" tvg-website="https://www.hellenictv.net/" ,Hellenic TV
+https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 
 
 #EXTINF:-1 group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,===== ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ ====
@@ -428,9 +430,13 @@ https://eu1.vectromdigital.com:1936/bciclassic/bciclassic/playlist.m3u8
 https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/playlist.m3u8
 #EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="https://www.cycinema.live/templates/itravel/images/logo.png" ,Κυπριακές Ταινίες
 https://www.cycinema.live/tainies/|webepg zoom=0 scroll=0,100
+#EXTINF:-1 group-title="ΤΑΙΝΙΕΣ" tvg-logo="https://i.ibb.co/GkFkxGc/village.png" ,Village World
+https://ellastvmax.better-than.tv/freetv/village-world/index.m3u8
 
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,=====   ΜΟΥΣΙΚΗ   ====
 http://.....
+#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://i.ibb.co/5MKkNgy/Screenshot-2023-11-15-160115.png" ,MAD World
+https://ellastvmax.better-than.tv/freetv/madworldtv/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"  tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniRWeQydH4pamOZcqfgB94e7Zm_IMDxKOssr_oNBw=s48-c-k-c0x00ffffff-no-rj" tvg-website="https://mad.tv/mad-radio/live-streaming/" ,Mad Radio 106.2 (Youtube)
 https://mad.tv/mad-radio/live-streaming/|youtubedig
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="https://i.ibb.co/k9dGbcN/baraza.jpg" tvg-website="https://app.barazaradio.com/" ,Baraza Greek Hits
