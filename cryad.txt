@@ -1,7 +1,21 @@
 #EXTM3U
 #EXTINF:-1  tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81D4bhLep5L._SY355_.png" ,===ΡΑΔΙΟΦΩΝΟ===
 https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/db/ac/4a/dbac4afa-8e38-3ae6-910c-2d695049873b/mzl.inrolmnl.png/1200x630wa.png|webview zoom=100 scroll=0,0
- 
+#EXTINF:-1 tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , ΠΡΟΣΟΧΗ!!!!!!!!!!
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" , Αυτή η έκδοση θα σταματήσει να δουλεύει τέλος του 2023.
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 tvg-logo="https://cdn3.iconfinder.com/data/icons/basicolor-signs-warnings/24/182_warning_notice_error-512.png" ,Αναβαθμίσετε την εφαρμογή στην έκδοση 4.10 για να συνεχίσετε να την απολαμβάνετε.
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Κινητά τηλέφωνα, τάμπλετ, Αndroid TV αναβαθμίστε από το play store.
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Huawei κινητά τηλέφωνα και τάμπλετ αναβαθμίστε από το appGallery
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , Για amazon Firesticks,Firecubes, Αndroid TV αναβαθμίστε από τον πιο κάτω σύνδεσμο
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+#EXTINF:-1 tvg-logo="https://iconarchive.com/download/i99352/dtafalonso/android-lollipop/Downloads.ico" , https://bit.ly/cytvradio
+https://i.ibb.co/JKkxCRc/warncy.png|webepg zoom=100 scroll=0,0
+
 #EXTINF:-1 group-title="ΛΕΥΚΩΣΙΑ" tvg-logo="https://i.ibb.co/MnSfNjx/2757.jpg" ,==== ΛΕΥΚΩΣΙΑ ====
 http://.....
 
