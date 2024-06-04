@@ -1,8 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="Mega" tvg-logo="https://i.ibb.co/f2rCKjh/mega.jpg" tvg-website="https://www.megatv.com/" ,MEGA HD
+http://cdn1.smart-tv-data.com/mega/mega/playlist.m3u8
 #EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" tvg-website="https://www.skaitv.gr/" ,SKAI
 https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
-#EXTINF:-1 group-title="ΠΑΝΕΛΛΑΔΙΚΑ"  tvg-id="ert1" tvg-logo="https://i.ibb.co/Y71vkKs/ERT1.jpg" tvg-website="https://www.ertflix.gr" ,ΕΡΤ1 HD
-https://telmacosa.s.llnwi.net/osO/ERT/default/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7Gj7KTj/star.jpg" tvg-id="STAR" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",STAR HD
 http://livestar.siliconweb.com/media/star1/star1.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/m1ZYJB" group-title="ΠΑΝΕΛΛΑΔΙΚΑ",ΒΟΥΛΗ
@@ -25,18 +25,12 @@ http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.eetep.gr/wp-content/uploads/2016/10/cus-tile-epiloges.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",Επιλογές tv (ΑΝ. ΜΑΚΕΔΟΝΙΑΣ ΚΑΙ ΘΡΑΚΗΣ)
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3NVhvc4/etv-tv.jpg" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",E TV (ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ)
-https://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.egnatia.tv/sites/default/files/logo_h40_2.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ΕΓΝΑΤΙΑ
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KNTCw9d/ipirostv1.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ΗΠΕΙΡΟΣ TV1 (ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ)
 https://til.pp.ua:3928/live/epiruslive.m3u8
-#EXTINF:-1 tvg-logo="http://www.gnomi.eu/images/gnomi_logo.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",gnomi TV (Κ. ΜΑΚΕΔΟΝΙΑΣ)
-https://channel.streams.ovh:1936/gnomitv/gnomitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/z485bW5/logo.png" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",HIGH TV (ΑΤΤΙΚΗΣ)
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/BnX9DJ" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ΚΡΗΤΗ TV (ΚΡΗΤΗΣ)
-http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wLpks3x/mesogios.jpg" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ΜΕΣΟΓΕΙΟΣ TV (ΠΕΛΟΠΟΝΝΗΣΟΥ)
 https://til.pp.ua:3872/live/mesogeiostvlive.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvrodopi.gr/images/logo.pnghttps://i.ibb.co/B3n8hcv/sat-tv.jpg" group-title="ΠΕΡΙΦΕΡΕΙΑΚΑ",ΣΑΤ (Samiaki TV) (ΔΩΔΕΚΑΝΗΣΟΥ ΚΑΙ ΣΑΜΟΥ)
@@ -47,12 +41,6 @@ https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 http://eco.streams.ovh:1935/syrostv1/syrostv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIKS.png" group-title="ΠΑΓΚΥΠΡΙΑ",ΡΙΚ SAT
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png" group-title="ΠΑΓΚΥΠΡΙΑ",ΡΙΚ1 [ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
-http://l6.cloudskep.com/tvb6/rik1-1/mpeg.2ts
-#EXTINF:-1 tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/RIK2.png" group-title="ΠΑΓΚΥΠΡΙΑ",ΡΙΚ2 [ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
-http://l6.cloudskep.com/tvb6/rik2-1/mpeg.2ts
-#EXTINF:-1 tvg-logo="http://cybc.com.cy/wp-content/uploads/admin/2018/10/rik-hd-bubble-border.png" group-title="ΠΑΓΚΥΠΡΙΑ",ΡΙΚHD [ΜΟΝΟ ΓΙΑ ΚΥΠΡΟ]
-http://l6.cloudskep.com/tvb6/rikhd1/mpeg.2ts
 #EXTINF:-1 tvg-logo="http://i.imgur.com/BMvgdlc.png" group-title="ΠΑΓΚΥΠΡΙΑ",ΣΙΓΜΑ
 https://sl3.sigmatv.com/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" group-title="ΠΑΓΚΥΠΡΙΑ",ΣΜΑΙΛ
@@ -85,18 +73,10 @@ https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3
 https://dev.aftermind.xyz/hls/unitrust/citychannel/index.m3u8?token=8TXWzhY3h6jrzqEqx
 #EXTINF:-1 tvg-logo="http://vouli.tv/wp-content/uploads/2019/09/cropped-voulilogo-e1517760078658.png" group-title="ΔΙΑΔΙΚΤΥΑΚΑ-ΚΥΠΡΟΣ",Vouli.tv
 https://dev.aftermind.xyz/hls/unitrust/voulitv/index.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="https://i.ibb.co/k9dGbcN/baraza.jpg" tvg-website="https://app.barazaradio.com/" ,Baraza Greek Music Hits
-https://eco.streams.ovh:8081/barazatv/index.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="https://i.ibb.co/k9dGbcN/baraza.jpg" tvg-website="https://app.barazaradio.com/" ,Baraza Relaxing Music
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/playlist.m3u8
 #EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="https://i.ibb.co/k9dGbcN/baraza.jpg" tvg-website="https://app.barazaradio.com/" ,Baraza GOLD Hits
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="https://i.ibb.co/k9dGbcN/baraza.jpg" tvg-website="https://app.barazaradio.com/" ,Baraza Deep House
-https://ssh101.bozztv.com/ssh101/relaxing/playlist.m3u8
-#EXTINF:-1 group-title="ΜΟΥΣΙΚΗ"   tvg-logo="https://i.ibb.co/k9dGbcN/baraza.jpg" tvg-website="https://app.barazaradio.com/" ,Baraza DJs Music Deep House
-https://rpn3.bozztv.com/ssh101/ssh101/relaxing/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://goo.gl/7tKqOl" group-title="ΜΟΥΣΙΚΗ",ΤΗΛΕ ΜΟΥΣΙΚΗ
-http://wpso.com:1936/hls/music1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Zl1OJ5.png" group-title="ΜΟΥΣΙΚΗ",NRG TV
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/QZQhg6C.png" group-title="ΜΟΥΣΙΚΗ",Magic TV
@@ -105,18 +85,12 @@ https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 https://zouglacam-mdc-secure.akamaized.net/zouglalive/main/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-BjVgNNmExgo/WhMYN1dmDHI/AAAAAAAAXTY/TmPb086-0acq-FzrTVn7eNqLDF9BU7VvwCLcBGAs/s1600/xalastra%2Btv.jpg" group-title="ΜΟΥΣΙΚΗ",Xalastra TV
 https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s156926/images/logoq.jpg?t=154771" group-title="ΜΟΥΣΙΚΗ",NGRadio
-https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://reloadplay.com/wp-content/uploads/2017/04/logo-foto-tv-150x150.jpg" group-title="ΜΟΥΣΙΚΗ",Load play
 https://web.onair-radio.eu/video/video/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.vibee.tv/wp-content/uploads/2019/10/logo_v2beat_page_small.jpg" group-title="ΜΟΥΣΙΚΗ",V2Beat Live
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://panikmusic.gr/wp-content/uploads/2020/03/logo-master1.png" group-title="ΜΟΥΣΙΚΗ",Panik TV
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.choicewebtv.com/wp-content/uploads/2019/09/71299365_427385794427509_9043789451230183424_n-1.png" group-title="ΜΟΥΣΙΚΗ",Choice Web Radio
-https://vod.streams.ovh:3528/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w7WtThP/euro.jpg" group-title="ΜΟΥΣΙΚΗ",Eurodance 90
-https://eurodance90.catcast.tv/content/36987/index.m3u8
 #EXTINF:-1 tvg-logo="https://klikfm.com.cy/template/img/logos/klikfmlogo.png" group-title="ΜΟΥΣΙΚΗ",Klik FM
 https://cdns.istoikona.com/klikfmcy/klikfmcyprus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://goo.gl/RmY1lD" group-title="ΜΟΥΣΙΚΗ",MESSINIA WEB TV
