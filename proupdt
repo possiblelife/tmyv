@@ -1,0 +1,12 @@
+    <latestVersion>2.157</latestVersion>
+    <latestVersionCode>271</latestVersionCode>
+    <url>https://play.google.com/store/apps/details?id=com.loaderpro.player</url>
+  <releaseNotes>
+What's New V2.156
+(1) Removed old volume booster code, added a new one based on the players. You can set the volume also from the video/audio preferences (handy for tv boxes)
+(2) More low brightness control, instead raising from level 1 to 10 will raise one by one.
+(3) Fix a bug when changing player from the settings (tvstyle).
+(4) Fix a bug when changing channels from the player (m3us).
+(5) Added Kurdish sorani language.
+(6) Other changes and improvements.
+    </releaseNotes>
